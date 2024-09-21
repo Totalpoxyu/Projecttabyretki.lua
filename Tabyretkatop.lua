@@ -1,4 +1,4 @@
-local Players = game:GetService("Players")
+local Players = game:GetService("Player")
 
 -- Функция для создания полоски HP
 local function createHPBar(player)
